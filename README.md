@@ -1,0 +1,2 @@
+# sotcidalumis
+lumis,petardas,scort
